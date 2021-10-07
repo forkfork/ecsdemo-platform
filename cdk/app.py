@@ -8,7 +8,6 @@ from aws_cdk import (
     aws_ssm,
     aws_autoscaling,
     core,
-    aws_appmesh,
     aws_ecs_patterns,
     aws_logs
 )
